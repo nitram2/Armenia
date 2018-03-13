@@ -1,1 +1,25 @@
-# Armenia
+#EXTM3U
+#EXTINF:0,Armenian National Radio
+http://163.172.7.166:8044/stream
+#EXTINF:0,Armenian Pulse Radio
+http://50.7.96.210:8134/;stream.mp3
+#EXTINF:0,Hay Yerevan
+http://mix.am:8000/rhyerevan?
+#EXTINF:0,Lav AM
+http://163.172.7.220:8000/stream/1/
+#EXTINF:0,Lav AM - Mix
+http://163.172.7.220:8006/stream/1/
+#EXTINF:0,Nor Radyo
+http://norradyo.com:8000/live
+#EXTINF:0,Radio Jan 90.7 FM
+http://streams4.museter.com:8216
+#EXTINF:0,Radio Lav 106.9 FM
+http://streams4.museter.com:8218/;
+#EXTINF:0,Radio Sevan
+http://sevan.bitwize.me:8018
+#EXTINF:0,Radio Van
+http://media.radiovan.am:8000/96_stereo
+#EXTINF:0,Yerevan Nights Radio
+http://Radio.YerevanNights.com:81/YerevanNights
+#EXTINF:0,Radio Jan 107.5 FM
+http://192.184.9.158:8248
